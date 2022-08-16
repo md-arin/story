@@ -1,0 +1,1 @@
+This is text file 2 created to learn git and version control.
